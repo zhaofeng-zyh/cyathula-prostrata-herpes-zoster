@@ -1,0 +1,27 @@
+{
+  "title": "Cyathula prostrata herpes-zoster chemotype study: analysis code and processed data",
+  "description": "Analysis and figure-generation code together with the processed data required to reproduce every main and supplementary figure and the supplementary tables of the manuscript \"Metabolomic and computational dissection of Cyathula prostrata identifies a sesquiterpene-flavonoid-coumarin chemotype predicted to engage the TNF/NF-kB axis of herpes zoster, with in-vitro TNF-alpha validation.\" Includes: untargeted-metabolomics processed feature/annotation tables, PLS-DA/volcano/heatmap and network-pharmacology (PPI, GO/KEGG) inputs, machine-learning and molecular-docking result tables, MD analysis curves (GROMACS .xvg) and run parameters (.mdp), and processed in-vitro (CCK-8/ELISA) results. Raw UHPLC-HRMS data are deposited separately in MetaboLights; full MD trajectories in a separate Zenodo record.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Cyathula prostrata",
+    "Amaranthaceae",
+    "herpes zoster",
+    "untargeted metabolomics",
+    "network pharmacology",
+    "molecular docking",
+    "molecular dynamics",
+    "machine learning",
+    "TNF-alpha",
+    "NF-kB",
+    "ethnopharmacology"
+  ],
+  "creators": [
+    {"name": "Zhao, Fang", "affiliation": "Pu'er University"},
+    {"name": "Zhao, Juan", "affiliation": "Pu'er University"},
+    {"name": "Zhang, Wuqiong", "affiliation": "Pu'er University"},
+    {"name": "Li, Yonghong", "affiliation": "Pu'er University"},
+    {"name": "Zhao, Feng", "affiliation": "Pu'er University"}
+  ]
+}

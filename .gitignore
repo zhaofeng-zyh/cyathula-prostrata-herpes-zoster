@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Regenerated figure outputs (top-level only; docking_poses inputs are kept)
+/figures/*.png
+/figures/*.pdf
+# Office documents (never publish manuscript/table docx here)
+*.docx

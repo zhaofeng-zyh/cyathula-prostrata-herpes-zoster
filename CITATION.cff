@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated manuscript and this archive."
+title: "Cyathula prostrata herpes-zoster chemotype study: analysis code and processed data"
+abstract: >-
+  Analysis and figure-generation code with the processed data reproducing the
+  figures and tables of the Cyathula prostrata / herpes-zoster metabolomics and
+  computational study.
+type: software
+license: CC-BY-4.0
+authors:
+  - family-names: Zhao
+    given-names: Fang
+    affiliation: "Pu'er University"
+  - family-names: Zhao
+    given-names: Juan
+    affiliation: "Pu'er University"
+  - family-names: Zhang
+    given-names: Wuqiong
+    affiliation: "Pu'er University"
+  - family-names: Li
+    given-names: Yonghong
+    affiliation: "Pu'er University"
+  - family-names: Zhao
+    given-names: Feng
+    affiliation: "Pu'er University"
+    email: zhaofeng@mail.kiz.ac.cn
+keywords:
+  - Cyathula prostrata
+  - herpes zoster
+  - untargeted metabolomics
+  - network pharmacology
+  - molecular docking
+  - molecular dynamics
+  - machine learning
+repository-code: "https://github.com/zhaofeng-zyh/cyathula-prostrata-herpes-zoster"
